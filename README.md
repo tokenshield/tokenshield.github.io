@@ -16,5 +16,4 @@ Features:
 Contact us:
 - [Website](https://tokenshield.github.io)
 - [Twitter](https://twitter.com/0xshield)
-- [Email](0xtokenshield@gmail.com)
 - [Donate](https://gitcoin.co/grants/3999/token-shield)
